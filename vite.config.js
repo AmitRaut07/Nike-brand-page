@@ -5,7 +5,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/Nike-brand-page/', 
   build: {
-    assetsDir: 'assets',
-    emptyOutDir: true
+  assetsInclude: ['**/*.png', '**/*.jpg', '**/*.jpeg', '**/*.gif']
   }
 })
