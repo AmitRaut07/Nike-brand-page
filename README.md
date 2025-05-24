@@ -1,12 +1,37 @@
-# React + Vite
+# Shoe Store E-Commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Shoe Store Screenshot](./public/images/screenshot.png)
+A modern, responsive shoe e-commerce website built with React and Vite.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Product showcase with high-quality images
+- Responsive design for all devices
+- Interactive UI elements
+- Optimized performance with Vite
 
-## Expanding the ESLint configuration
+## 🛠 Technologies
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18
+- Vite 4
+- CSS3 with modern layout techniques
+- GitHub Pages (for deployment)
+
+## 🚀 Getting Started
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/AmitRaut07/Nike-brand-page.git
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+```
+
+## ⚠️ Copyright Notice
+
+All rights reserved. Unauthorized use, reproduction, or distribution of this project is prohibited.
