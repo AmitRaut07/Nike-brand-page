@@ -1,6 +1,6 @@
 # Shoe Store E-Commerce Website
 
-![Shoe Store Screenshot](./public/images/screenshot.png)
+![Shoe Store Screenshot](./public/images/screenshotOfPage.png)
 A modern, responsive shoe e-commerce website built with React and Vite.
 
 ## ✨ Features
